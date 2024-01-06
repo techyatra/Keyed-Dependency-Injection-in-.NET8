@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyedDI", "KeyedDI\KeyedDI.csproj", "{AA438076-A01A-4AD2-A356-30BF3CF8AB76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA438076-A01A-4AD2-A356-30BF3CF8AB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA438076-A01A-4AD2-A356-30BF3CF8AB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA438076-A01A-4AD2-A356-30BF3CF8AB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA438076-A01A-4AD2-A356-30BF3CF8AB76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {280CD786-B348-4113-9ED8-4079D1A309BB}
+	EndGlobalSection
+EndGlobal
